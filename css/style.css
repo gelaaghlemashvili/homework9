@@ -1,0 +1,54 @@
+.bg-image {
+    background-image: url(/image/bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+header {
+    width: 100%;
+    position: absolute;
+    padding: 32px 0;
+}
+.container {
+    max-width: 1140px;
+    margin: auto;
+    width: 100%;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+.logo {
+    width: 98px;
+    height: auto;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.headertext {
+    font-size: 32px;
+    color: white;
+    margin-left: 53px;
+}
+
+.bg-text {
+    text-align: center;
+    color: white;
+    max-width: 1140px;
+    width: 100%;
+    font-size: 40px;
+    margin-bottom: 96px;
+}
