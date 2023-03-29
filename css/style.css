@@ -1,5 +1,5 @@
 .bg-image {
-    background-image: url(/image/bg.png);
+    background-image: url("../image/bg.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -47,6 +47,11 @@ ul {
     font-size: 32px;
     color: white;
     margin-left: 53px;
+    transition: 0.2s linear;
+}
+
+.headertext:hover {
+    color: red;
 }
 
 .bg-text {
