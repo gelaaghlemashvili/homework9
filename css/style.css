@@ -74,3 +74,19 @@ ul {
 .div-img img {
     width: 100%;
 }
+.section3 {
+    width: 100%;
+    padding: 96px 0;
+    background-color: #0B0A0A;
+}
+.section3-text {
+    background-color: #8E8B8B;
+    padding: 64px 109px 130px;
+}
+.section3-p{
+    font-size: 18px;
+    color: white;
+}
+.width-48 {
+    width: 46%;
+}
